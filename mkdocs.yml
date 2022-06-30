@@ -10,4 +10,5 @@ extra:
 
 edit_uri: /blob/master/
 nav:
-  - Home: index.md
+  - Home: /mk-docs-main/
+  - index.md
